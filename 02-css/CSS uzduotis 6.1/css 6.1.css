@@ -81,20 +81,8 @@ h5 {font-family: 'intr';
 .klounas {display: flex;
     justify-content: space-between;
     gap:20px;}
-
-/* @media screen and (max-width: 376px) {
-    .klounas {
-            flex-direction: column;      
-        }
-    } */
-@media screen and (max-width: 759px) {
-    .klounas { flex-direction:column;
-         
-    }}
     
-/* @media  screen and (max-width: 1927px) {
-    div.skirtingas-turinys {
-
-            
-        }
-    } */
+@media screen and (max-width: 759px) {
+    .klounas { flex-direction:column;}
+}
+    
