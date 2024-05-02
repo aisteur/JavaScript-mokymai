@@ -1,0 +1,30 @@
+body {background-color: rgba(171, 169, 175, 0.925);}
+
+h1 {background-color: white;
+   text-transform : uppercase ;
+    font-family: 'roboto';
+    font-weight: 900;
+    font-size: 50px;
+    text-decoration-thickness: 2px;}
+
+.fonas {background-color: white;}
+
+h3 {text-decoration: underline;
+    font-weight: 900;
+    font-size: 20px;
+    font-family: 'roboto';}
+
+p {margin-right: 950px;
+    font-family: 'open sans';
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;}
+
+h2 {background-color: white;
+    font-weight: bold;
+    font-size: 36px;}
+
+img {width: 300px;
+    height: 300px;
+    object-fit: cover;}
+

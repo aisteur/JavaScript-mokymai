@@ -1,0 +1,100 @@
+body {
+    background-color: whitesmoke;}
+
+.kortele {
+    background-color: white;
+    border-radius: 16px;
+    transition: 0.3s;
+    width: 376px;
+    max-height: 629px;}
+
+.kortele1 {
+    padding: 16px 24px;
+    margin-top: -20px;
+    gap: 24px;
+    text-align: left;
+    }
+
+.kortele:hover { 
+    border: 1px solid green;}
+
+img {border-radius: 16px 16px 0px 0px;}
+
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;}
+
+.dot1 {
+    height: 15px;
+    width: 15px;
+    background-color: salmon;
+    border-radius: 50%;
+    display: inline-block;}
+
+.dot3 {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(172, 112, 112);
+    border-radius: 50%;
+    display: inline-block;}
+
+.dot2 {
+    height: 15px;
+    width: 15px;
+    background-color: beige;
+    border-radius: 50%;
+    display: inline-block;}
+
+.button {width: 100px;
+    height: 41px;
+    padding: 12px 32px;
+    border: 2px solid green;
+    border-radius: 4px;
+    float: inline-end;
+    margin-top: -20px;
+    color: green;
+    background-color:white;}
+
+.button:hover {background-color: green;
+    color:#ffffff;}
+
+a {text-decoration: none;
+    color: green;}
+
+h2 {color: #000000;
+    font-family: 'inter';
+    font-size: 24px;}
+
+p {font-family: 'inter';
+    color: #777777;
+    font-size: 16px;
+    font-weight: 400;}
+
+h5 {font-family: 'intr';
+    font-size: 14px;
+    color: #7D9458;
+    font-weight: 400;}
+
+.klounas {display: flex;
+    justify-content: space-between;
+    gap:20px;}
+
+/* @media screen and (max-width: 376px) {
+    .klounas {
+            flex-direction: column;      
+        }
+    } */
+@media screen and (max-width: 759px) {
+    .klounas { flex-direction:column;
+         
+    }}
+    
+/* @media  screen and (max-width: 1927px) {
+    div.skirtingas-turinys {
+
+            
+        }
+    } */

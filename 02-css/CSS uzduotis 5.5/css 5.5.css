@@ -1,0 +1,110 @@
+body, html {margin:0px;
+    padding:0px;
+    background-image: url(back.jpg);
+    background-attachment: fixed;
+    background-position: center;}
+
+.header {display:flex;}
+.header ul {margin:0 3rem 0 0;
+        padding:0;
+        list-style:none;
+        display:flex;
+        flex:1 0 0%;
+        justify-content:space-evenly;
+        float: left;
+        width: 20%}
+
+.header ul a {display:block;
+        padding:5px 10px;}
+
+.header {background-color: #000000;
+    height: 88px;
+    display: flex;
+    justify-content: space-evenly;}
+
+.header1 {color:#ffffff ;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;}
+
+ul li {list-style-type: none;
+    display:inline-block;
+    font-family: 'montserrat';
+    color: #ffffff;}
+
+a {color: #ffffff;
+    font-weight: 300;
+    text-decoration: none;}
+
+.fonas1 {background-color: #000000;
+    width:1120px;
+    height:728px;
+    display: flex;
+    justify-content: space-between;
+    margin: 169px 160px;
+    align-items: center;}
+
+.fonas10 {display: flex;
+    justify-content: space-between;
+    align-content: center;
+    gap: 36px;
+    padding-left:75px;}
+
+.kortele {background-color: #000000;
+    width: 293px;
+    height: 440px;
+    border: 3px solid#ffffff;
+    color: #ffffff;}
+
+.kortele1 {gap:36px;
+    text-align: center;
+    max-width: fit-content;
+    max-height: fit-content;
+    padding: 10px;}  
+
+.foto {border-radius: 50%;
+    display:block;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;}
+
+h2 {font-family: 'montserrat';
+    text-align: center;
+    color:#ffffff;
+    font-weight:800;
+    font-size: 24px;}
+
+p {color: #ffffff;
+    font-family: 'montserrat';
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    padding: 20px;}
+
+button {height: 52px;
+    width: 163px;
+    font-family: 'montserrat';
+    background-color: #000000;
+    color:rgb(111, 12, 160); 
+    font-weight: 1000;
+    border: 0px;}
+
+button:hover {border: 5px solid rgb(111, 12, 160);}
+
+.footer {display: flex;
+    background-color: #000000;
+    justify-content: center;
+    height: 47px ;
+    padding: 16px 8px;}
+
+h5 {font-size: 12px;
+    color:#ffffff;
+    font-family: 'montserrat';
+    font-weight: 700;}
+
+#bruksnys {border: 2px solid #ffffff;
+    border: 2px 0px 0px 0px;
+    width: 20px;
+    margin-left: auto;
+    margin-right: auto;}

@@ -1,0 +1,70 @@
+body {margin:0px;
+    padding:0px;}
+
+h1 {color: black;
+    text-align: center;}
+
+.header {background-color: olivedrab;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;}
+
+.buttons {display: flex;
+    flex-direction: row;
+    justify-content: space-between;}
+
+.button {background-color: olivedrab;
+    border: 1px solid black;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    display: flex;
+    font-size: 15px;}
+
+.button:hover {background-color: black;
+    color: white;}
+
+.nav {background-color: rgb(176, 234, 61);
+    display: flex;
+    padding: 20px;}
+
+.tekstas1 {color: black;
+    text-align: left;}
+
+.article {background-color:rgb(206, 216, 183) ;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap:20px 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;}
+
+.straipsniai {background-color: rgb(231, 242, 209);
+    border: 0px solid white;
+    color: black;
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    max-width: 450px;
+    max-height: 350px;}
+
+.footer {background-color: black;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    padding: 20px;
+    gap: 20px 10px;}
+
+.tekstas {text-align: left;
+    width:450px;}
+
+.nuorodos {text-align: left;}
+
+.lentele {width: 450px;
+    text-align: left;}
+
+ span {color: aquamarine;}
+
+ li {color: white;}

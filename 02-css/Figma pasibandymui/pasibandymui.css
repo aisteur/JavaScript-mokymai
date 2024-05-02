@@ -1,0 +1,16 @@
+body {background-image: url(color.jpg) ;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;}
+
+h1 {font-family: 'Gloria Hallelujah';
+    font-size: 72px;}
+
+p {color: black;
+    size: 20px;
+    font-family: 'inter';}
+
+.box { background-color: rgba(255, 255, 255, 0.5);
+    margin-right: 950px;
+    padding-bottom: 5em ;
+    }

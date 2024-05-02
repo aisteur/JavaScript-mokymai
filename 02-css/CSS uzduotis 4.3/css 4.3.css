@@ -1,0 +1,49 @@
+body {background-color: olive;}
+
+#pirmas {background-color:rgb(206, 206, 128) ;
+    max-width: 80%;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    border: 12px solid darkgreen;
+    box-shadow: 5px 5px 15px black;}
+
+#antras {background-color:rgb(206, 206, 128) ;
+    max-width: 80%;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5em; 
+    border-radius: 150px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);}
+
+#trecias {background-color:rgb(206, 206, 128) ;
+    max-width: 80%;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5em 0em; 
+    border-bottom: 10px solid darkgreen;
+    border-right: 15px dashed darkgreen;}
+
+#ketvirtas {background-color:rgb(206, 206, 128) ;
+    max-width: 80%;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0em 5em 1em;
+    border-top-left-radius: 20px ;
+    border-bottom-right-radius: 50px ;}
+
+#penktas {background-color:rgb(206, 206, 128) ;
+    max-width: 80%;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0em 0em 5em 0em;
+    border-left: 10px dashed darkgreen;}

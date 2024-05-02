@@ -1,0 +1,24 @@
+body {background-color: rgb(241, 244, 241);}
+
+.kortele {background-color: darkseagreen;
+    color: rgb(54, 70, 54);
+    width: 400px;
+    height:500px;
+    text-align: left;
+    margin-left: auto;
+    margin-right:auto;
+    box-shadow: 3px 3px 30px  grey;
+    margin-top: 20px;
+    margin-bottom: 20px;}
+
+span {text-decoration: bold;}
+
+p, h4 {padding-left: 20px;
+    height: fit-content;}
+
+.tekstas {position:relative;
+    background-color: white;
+    color: black;
+    width: fit-content;
+    margin-top: -32px;
+    padding: 5px;}

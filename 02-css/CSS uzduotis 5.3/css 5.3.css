@@ -1,0 +1,76 @@
+html, body {margin:0px;
+    padding: 0px;}
+
+.header {background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;}
+
+.nuorodos {display:flex;
+    align-items: center;}
+
+li {list-style-type: none;
+    display:inline-block;
+    padding: 10px;}
+
+h1 {padding-left: 20px;}
+
+.nav {background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    align-items: center;}
+
+.nav1 {color: white;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;}
+
+.article {background-color: antiquewhite;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 50px;
+    padding: 20px;
+    }
+
+.straipsnis2 {border: 1px solid grey;
+    color:black;
+    text-align: left;
+    margin: 30px;
+    padding: 10px;
+    max-width: 300px;
+    max-height: 300px;
+    background-color: white;}
+
+h3 {color: black;
+    font-weight: 3em;
+    font-family:'sans-serif'; }
+
+p {font-family: ' sans-serif';}
+
+.footer {background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    align-items: center;}
+
+.footer1 {color: white;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 100px;}
+
+.footer11 {color:white;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 100px;}
+
+.footer2 {background-color: navajowhite;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;}
+
+.footer22 {color: black;
+    text-align: center;}
+

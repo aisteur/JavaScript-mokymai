@@ -1,0 +1,26 @@
+body {background-color: white;
+    background-position: cover;
+        }
+
+.pirma {background-image: url("m1.jpg") ;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: inline;
+         }
+
+.antra {background-image: url("m2.jpg");
+        background-position: center center;
+        background-size: cover;
+        background-attachment: inline;}
+
+.trecia {background-image: url("m3.jpg");
+        background-position: center center;
+        background-size: cover;
+        background-attachment: inline;}
+
+h2 {color:white;}
+
+#tekstas {color:black;
+        background-color: rgba(255, 255, 255, 0.5);}
+    
+#antraste {background-color: rgba(0, 0, 0, 0.5) ;}

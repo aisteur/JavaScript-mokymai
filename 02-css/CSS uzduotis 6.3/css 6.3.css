@@ -1,0 +1,46 @@
+body {background-color: antiquewhite;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap:30px;}
+
+.kortele {background-color: whitesmoke;
+    width: 276px;
+    height: 360px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;}
+
+.kortele:hover {border: 3px solid #3e7fe1;
+    box-shadow: 3px 3px 60px #3e7fe1;}
+
+img {border-radius: 12px 12px 0px 0px;}
+
+.kort {padding:0px 16px 0px 16px;}
+
+p {color: #959393;
+    font-family: 'inter';
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: -10px;
+    padding-top: 10px;}
+
+h3 {font-family: 'inter';
+    font-weight:700;
+    font-size: 20px;
+    color: #121212;}
+
+.data {background-color: #ffffff;
+    width: 56px;
+    height:56px;
+    border-radius: 12px;
+    color: #121212 ;
+    font-family: 'inter';
+    font-size: 12px;
+    position: relative;
+    margin-left: 190px;
+    margin-top: -70px;
+    text-align: center;}
+
+b {font-size: 24px;}
+

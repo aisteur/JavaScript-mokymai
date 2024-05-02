@@ -1,3 +1,25 @@
 body    {background-color: black;}
-      h1 {color: black;
-            background-color: white;}
+
+h1 {color: black;
+      background-color: white;}
+
+h2 {color: black;
+      background-color: grey;}
+
+h3 {color:red;}
+
+p {color: blue;}
+
+.pirmas {background-color: beige;}
+
+.antras {background-color:beige;}
+
+.trecias {background-color: beige;}
+
+p span {color:white;
+      background-color: red;}
+
+.fonas {background-color: white;}
+
+img {width: 100px;
+      height: 100px ;}
